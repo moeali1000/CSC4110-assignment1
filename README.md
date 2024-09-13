@@ -1,3 +1,4 @@
-CSC4110-assignment1 
-fr3002 
+#Github and git conflict
+CSC4110-assignment1
+fr3002
 Mohamed Almasmari
